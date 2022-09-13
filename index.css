@@ -1,0 +1,87 @@
+@font-face {
+    src: url("fonts/Karla-Regular.ttf");
+    font-family: "Karla";
+}
+
+@font-face {
+    src: url("fonts/Inter-Regular.ttf");
+    font-family: "inter";
+}
+
+body {
+    
+    background: #1F2937;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.header { 
+    
+}
+    
+.rpd {
+    color: #10B981;
+}
+    
+#mainTitle {
+    color: white;
+    font-family: 'Karla';
+    font-size: 40px;
+    width: 300px;
+    margin-bottom: 0px;
+    font-weight: 800px;
+}
+
+#secondTitle {
+    color: #D5D4D8;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "inter";
+    height: 28px;
+}
+    
+#passwordGenerator {
+    margin-top: 40px;
+    background: #10B981;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    font-family: "inter";
+    font-weight: 500;
+}
+
+.line-1 { 
+  height: 1px;
+  background: #2F3E53;
+  margin: 40px 0 40px 0;
+  width: 446px;
+}
+
+.bottoms {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#first-bottom-el {
+    margin-right: 30px;
+    color: #10B981;
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border: none;
+    border-radius: 6px;
+    font-family: "inter";
+}
+
+#second-bottom-el {
+    
+    color: #10B981;
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border: none;
+    border-radius: 6px;
+    font-family: "inter";
+}
